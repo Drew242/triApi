@@ -95,3 +95,6 @@ C:\PeripheralTools\triApi\triApi\bin\Microsoft.AI.Web.xml
 C:\PeripheralTools\triApi\triApi\obj\Debug\triApi.csproj.CopyComplete
 C:\PeripheralTools\triApi\triApi\obj\Debug\triApi.dll
 C:\PeripheralTools\triApi\triApi\obj\Debug\triApi.pdb
+C:\PeripheralTools\triApi\triApi\bin\System.Web.Cors.dll
+C:\PeripheralTools\triApi\triApi\bin\System.Web.Http.Cors.dll
+C:\PeripheralTools\triApi\triApi\bin\System.Web.Http.Cors.xml
